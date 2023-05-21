@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.timerlibrary.Timer">
+
+
+
+    <SeekBar
+        android:id="@+id/timer_sb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5:00"
+        android:textSize="50dp"
+        android:layout_centerInParent="true"/>
+
+
+    <Button
+        android:id="@+id/BTN_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/textView"
+        android:text="Start Timer"
+        android:backgroundTint="#0C3759"
+        android:textColor="#E0DBE8"/>
+
+
+
+
+
+</LinearLayout>

@@ -2,6 +2,7 @@
 
 ## The library provides timer services.
 
+
 ### The library allows editing of the timer.
 
 
@@ -23,8 +24,9 @@
 Add the dependency below to your module's `build.gradle` file:
 ```gradle
 dependencies {
-    implementation 'com.github.osnatlevi:myPersonalLibrary:1.0'
+    implementation 'com.github.osnatlevi:MyTimerLibrary:1.0'
 }
+```
 Add a repository in your `settings.gradle` file:
 ```
 dependencyResolutionManagement {

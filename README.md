@@ -17,7 +17,7 @@
 
 
 
-https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/29ee3006-52db-4d7f-90ab-83223f104b42 width="350" height="700"
+https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/29ee3006-52db-4d7f-90ab-83223f104b42 
 
 
 

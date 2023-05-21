@@ -10,8 +10,8 @@
 
 
 <div>
-  <img src="https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/769d4bf9-18a8-49a1-97f2-eb24e24b51bf)" width="300" height="700"/>
-   <img src="https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/01d0f92b-0011-4804-b4c5-618d61b98a25)"  width="300" height="700"/>
+  <img src="https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/769d4bf9-18a8-49a1-97f2-eb24e24b51bf)" width="350" height="700"/>
+   <img src="https://github.com/osnatlevi/MyTimerLibrary/assets/69049944/01d0f92b-0011-4804-b4c5-618d61b98a25)"  width="350" height="700"/>
  
 </div>
 
